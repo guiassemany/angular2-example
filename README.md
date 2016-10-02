@@ -1,5 +1,7 @@
 # Angular2 Example App
 
+![Image](https://raw.github.com/guiassemany/angular2-example/master/documentation/exampleapp.png)
+
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.16.
 
 ## Development server
